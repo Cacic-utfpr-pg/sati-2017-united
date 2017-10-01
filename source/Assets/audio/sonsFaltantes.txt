@@ -1,0 +1,9 @@
+atk
+def
+dano
+
+inimigos
+
+
+
+
