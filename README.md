@@ -1,1 +1,29 @@
 # sati-2017-united
+
+Jogo desenvolvido pela equipe United para o CACIC Game Jam 2017 Universidade Tecnológica Federal do Paraná.
+Para fins da primeira competição Cacic Game Jam, organizado pelo CACIC (Centro Acadêmico de Ciência da Computação) em 2017.
+
+# Detalhes
+ - Desenvolvida usando a Unity Engine
+ - Para o jogo funcionar é necessário que a pasta "avisita_Data" esteja no mesmo diretório que o arquivo "avisita.exe", aplicativo que abre o jogo.
+ - Os arquivos do projeto estão na pasta "Codigo_fonte"
+ - A pasta Assets/Scripts contém todos os scripts do jogo.
+ - A pasta Assets/audio contém todos os audios do jogo.
+ - A pasta Assets/Sprites contém todos os sprites do jogo.
+ - A pasta Assets/Scene contém todas as cenas e/ou fases do jogo.
+ - A pasta Assets/Prefab contém todos os arquivos de objetos pré fabricados do jogo.
+ - A pasta Assets/Animation contém todos arquivos de animação do jogo.
+ - Os demais arquivos são arquivos de configuração de softwares utilizados para o desenvolvimento do projeto e podem variar.
+
+# Download
+ - Projeto compilado: https://www.4shared.com/s/f-2dyMyPXei
+  		      https://www.dropbox.com/sh/gpdnyeoqmq1wcpc/AABAZ9Kz5jLmn0XPseugVqD1a?dl=0
+
+# Contato 
+ - Levy M. M. <levymateusmacedo@gmail.com>
+ - Bruno Alves <brunoa@alunos.utfpr.edu.br>
+ - Maria Vitória O. C. <...>
+ - William Osteimer C. A <...>
+
+# Licensa 
+ - O jogo é disponibilizado sob a licença creative commons.
