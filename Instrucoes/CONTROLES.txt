@@ -1,0 +1,7 @@
+# Controles do personagem
+ - Movimentação: W, A, S, D
+ - Pular: Space
+
+# Iteragir:
+ - Space
+ - Esc: Pause
